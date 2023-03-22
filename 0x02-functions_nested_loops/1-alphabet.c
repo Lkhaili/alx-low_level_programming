@@ -2,7 +2,7 @@
 
 
 /**
- * print_alphabet - make the alphabet
+ * print_alphabet - Make the alphabet
  * Return: void
 */
 
@@ -10,7 +10,7 @@ void print_alphabet(void)
 
 {
 
-char c; 
+char c;
 
 for (c = 'a'; c <= '2'; c++)
 {
